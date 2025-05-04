@@ -44,7 +44,7 @@ function parse(text) {
 let line = 0;
 let lines = [];
 
-fetch("/text.txt")
+fetch("/readout/text.txt")
 .then(r=>r.text())
 .then(r=>parse(r));
 
