@@ -1,1 +1,28 @@
-../06.05.2025/text.txt
+28.04$
+Neue Regierung in Deutschland::
+Die CDU und CSU haben dem Koalitionsvertrag mit der SPD zugestimmt. Der neue Kanzler wird Merz sein, und er wird nächste Woche gewählt. Johann Wadephul wird Außenminister, und Alexander Dobrindt wird Innenminister. Die Erwartungen an die neue Regierung sind hoch, und sie wollen viele Versprechen aus dem Wahlkampf einhalten. Einige in der CDU sind mit den Entscheidungen von Merz nicht ganz zufrieden, besonders in Ostdeutschland. Die CSU und die SPD haben auch ihren Ministern vorgestellt.
+---
+Großer Stromausfall in Spanien und Portugal::
+In Spanien gab es einen großen Stromausfall. U-Bahnen und Züge fuhren nicht mehr, Geldautomaten funktionierten nicht, und viele Operationen in Krankenhäusern wurden abgesagt. Auch in Portugal und Südfrankreich gab es Probleme. Viele Menschen, darunter Touristen, waren betroffen und wussten nicht, was sie tun sollten. In Madrid war es besonders schlimm: Es gab keinen Strom und kein Internet, und die Menschen waren von Informationen abgeschnitten. Einige Regionen bekamen später wieder Strom, aber es dauerte lange, bis alles normal war. In Portugal war die Situation noch schwieriger, und die Wiederherstellung des Stroms könnte Tage dauern. Die Gründe für den Ausfall sind noch unklar, es wird über verschiedene Möglichkeiten spekuliert, aber sicher ist noch nichts. Die Menschen blieben jedoch relativ gelassen und warteten auf Lösungen.
+---
+Putin kündigt dreitägige Waffenruhe::
+Russlands Präsident Putin hat eine dreitägige Waffenruhe in der Ukraine angekündigt. Diese soll vom 8 bis 10 Mai gelten. Der Kreml fordert die Ukraine auf, ebenfalls zu stoppen, sonst wird Russland reagieren. Die Waffenruhe ist am "Tag des Sieges" am 9 Mai, einem wichtigen Feiertag in Russland. Putin steht unter Druck, weil US-Präsident Trump ihm vorwirft, nicht genug für den Frieden zu tun. Russland ist bereit für Gespräche mit der Ukraine, aber die Ukraine muss zuerst auf Russland zukommen.
+#!29.04$
+Einführung der elektronischen Patientenakte::
+Ab 29 April gibt es die elektronische Patientenakte (ePA) in ganz Deutschland. und. Patienten müssen sagen, wenn sie nicht mitmachen wollen. Die Akten helfen Ärzten, schnell die Krankengeschichte eines Patienten zu sehen, was doppelte oder schädliche Behandlungen vermeiden kann. Zuerst werden Befunde und Medikamente gespeichert, später auch Röntgenbilder und Impfungen. Es gibt aber Bedenken wegen der Sicherheit, da Daten gehackt werden könnten. Außerdem können Patienten nicht auswählen, welche Ärzte auf ihre Daten zugreifen dürfen. Der Gesundheitsminister sagt, dass Patienten bestimmte Informationen löschen können.
+---
+Spionage-Anklage gegen Krah-Ex-Mitarbeiter::
+Die Justiz hat Anklage gegen einen ehemaligen Mitarbeiter von AfD-Politiker Maximilian Krah und eine mutmaßliche Komplizin erhoben. Sie werden beschuldigt, für einen chinesischen Geheimdienst spioniert zu haben. Der Mann soll geheime Informationen aus dem EU-Parlament weitergegeben und chinesische Gegner ausgespäht haben.
+---
+Krise der Menschenrechte::
+Menschenrechte sind weltweit in einer Krise, sagt Amnesty International. Die Politik von Donald Trump hat dazu beigetragen, weil er die Hilfen für andere Länder stark gekürzt hat. In Afghanistan leiden viele Menschen unter Hunger. Über 14 Millionen sind nicht genug versorgt. Matiullah hat große Probleme, seine Familie zu ernähren. Er hat kein Geld für die Behandlung seiner kranken Kinder. 2024 gab es zwar 800 Millionen Dollar Hilfe, aber im März stoppte Trump fast alle Hilfsprogramme für Afghanistan. Jetzt kämpfen viele um ihr Überleben. 3,5 Millionen Kinder sind akut mangelernährt. Wenn Firmen Mitarbeiter entlassen, betrifft das viele Familien. UN-Vertreter warnen, dass viele Afghanen umziehen müssen, wenn es so weitergeht. Junge Menschen haben keine Hoffnung, was zu Gewalt führen kann. Der Rückgang der Hilfen macht die Situation noch schlimmer.
+---
+Kanadas neuer Premier kämpft gegen Trump::
+Mark Carney ist seit 45 Tagen Premierminister von Kanada. Bei der Wahl hat seine liberale Partei die Konservativen überholt und gewonnen. US-Präsident Trump hat viele Kanadier gegen sich aufgebracht, was Carney geholfen hat, Stimmen zu gewinnen. Er verspricht, gegen Trump zu kämpfen und die Beziehungen zu anderen Ländern zu stärken. Die Wahl war schlecht für die Konservativen, ihr Anführer hat sogar seinen Sitz verloren. Die Kanadier haben Carney gewählt, weil sie jemanden wollen, der mit Trump umgehen kann. Carney sagt, dass es schwierige Zeiten geben wird, weil Kanada stark von den USA abhängig ist. Die Wähler wollen, dass er kämpft und nicht aufgibt.
+---
+Drei Menschen in Uppsala erschossen::
+In Uppsala, Schweden, wurden drei Menschen erschossen. Der Ort ist abgesperrt. Die Schüsse fielen in einem Friseursalon. Ein maskierter Mann floh danach mit einem E-Roller. Die Polizei weiß noch nicht, warum das passiert ist, und hat eine Morduntersuchung gestartet.
+---
+Der Satellit zur Vermessung der Wälder::
+Der Satellit "Biomass" von der ESA wird die Wälder der Erde vermessen. Wälder speichern CO2 und helfen gegen den Klimawandel. Der Satellit fliegt über Regenwälder in Südamerika und muss manchmal abgeschaltet werden, wenn er über bestimmte Gebiete fliegt. Er wurde erfolgreich ins All gebracht und sendet erste Signale. Biomass hat eine große Antenne, die mit Radar die Wälder untersucht. Er wird Daten für mindestens fünf Jahre sammeln und helfen, die Menge und Veränderung der Wälder zu verstehen. Die Mission wurde über zehn Jahre vorbereitet und wird auch Wüsten und Eisböden analysieren.
+#!30.04$
