@@ -31,7 +31,7 @@ function parse(text) {
             theme[1]
             .trimEnd()
             .split(". ")
-            .map(s => s + ".")
+            .map(s => s[s.length-1] == '.' ? s : s + ".")
             .forEach(s => {
                 if (s.startsWith('!:')) {
                     let c = document.createElement('p');
