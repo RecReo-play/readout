@@ -16,3 +16,7 @@ p {
     font-weight: bold;
     color: red;
 }
+
+.green {
+    color: rgb(0, 190, 0);
+}

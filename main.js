@@ -28,9 +28,18 @@ function parse(text) {
         day[1].split("\n---\n").forEach(n => {
             let theme = n.split("::\n", 2);
             add('h2',theme[0]);
-            theme[1].split(". ")
+            theme[1]
+            .trimEnd()
+            .split(". ")
             .map(s => s + ".")
             .forEach(s => {
+                if (s.startsWith('!:')) {
+                    let c = document.createElement('p');
+                    c.innerText = s.slice(2).split('\n',1)[0];
+                    c.className = "green";
+                    document.body.appendChild(c);
+                    s = s.slice(s.indexOf('\n')+1);
+                }
                 let el = document.createElement('p');
                 el.innerText = s;
                 document.body.appendChild(el);
